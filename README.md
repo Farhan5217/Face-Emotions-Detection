@@ -19,6 +19,13 @@ High accuracy in detecting and classifying emotions.
 ![Screenshot](sad.PNG)
 ![Screenshot](surprise.PNG)
 
+## Usage 
+1. Connect a webcam or a camera to your system.
+
+2. Run the code.
+
+3. Detected faces will be highlighted, and their corresponding emotions will be displayed in real-time.
+
 ## Contributions 
 
 Contributions to the project are highly encouraged. If you encounter any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
