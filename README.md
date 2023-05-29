@@ -12,6 +12,11 @@ Classification of emotions including but not limited to happy, sad, angry, surpr
 
 High accuracy in detecting and classifying emotions.
 
-Glimpes of the Project
+## Glimpes of the Project
+
+![Screenshot](Happy.PNG)
+![Screenshot](Normal.PNG)
+![Screenshot](sad.PNG)
+![Screenshot](surprise.PNG)
 
 
