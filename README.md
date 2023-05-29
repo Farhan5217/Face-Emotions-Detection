@@ -19,4 +19,6 @@ High accuracy in detecting and classifying emotions.
 ![Screenshot](sad.PNG)
 ![Screenshot](surprise.PNG)
 
+## Contributions 
 
+Contributions to the project are highly encouraged. If you encounter any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
